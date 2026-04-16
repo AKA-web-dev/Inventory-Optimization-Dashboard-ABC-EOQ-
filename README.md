@@ -112,7 +112,10 @@ The dashboard provides:
 
 ### 📸 Dashboard Preview
 
-![Dashboard](Dashboard/screenshot 2026-04-16 013446.png)
+![Dashboard](Dashboard/screenshot.png)
+![Dashboard](Dashboard/Screenshot.png)
+![Dashboard](Dashboard/ScreenshoT.png)
+![Dashboard](Dashboard/ScreenshOt.png)
 
 ---
 
