@@ -1,0 +1,201 @@
+Product_ID,Produit,Categorie,Quantite_Stock,Prix_Unitaire,Demande_Annuelle,Cout_Commande,Cout_Stockage_Unitaire,Lead_Time_Jours,Fournisseur
+P031,Filtre,Production,1635,1821.8,9204.0,158.08,28.12,3.0,Maghreb Parts
+P174,Roulement,Maintenance,1150,1489.89,9712.0,376.24,21.56,37.0,Maghreb Parts
+P141,Pompe,Production,1219,2261.24,6803.0,23.24,49.55,28.0,IndusPro
+P076,Capteur,Logistique,855,1210.82,10167.0,173.32,111.54,32.0,Maghreb Parts
+P061,Bobine,Consommable,2114,1723.17,18269.0,234.84,106.84,12.0,Atlas Supply
+P170,Interrupteur,Production,356,981.01,2502.0,349.34,165.79,20.0,StockPlus
+P046,Boitier,Maintenance,1897,52.38,5428.0,175.83,118.12,11.0,Nova Equip
+P184,Roulement,Logistique,2041,182.8,19739.0,309.63,56.21,2.0,Sigma Tech
+P010,Interrupteur,Production,520,958.01,9504.626943005182,48.78,178.41,2.0,Maghreb Parts
+P101,Carton,Maintenance,1222,2822.0,9504.626943005182,242.77,97.66,34.0,Maghreb Parts
+P138,Galet,Consommable,2400,447.84,8090.0,80.42,15.29,6.0,Atlas Supply
+P190,Tuyau,Production,713,2834.85,1501.0,148.3,108.2,1.0,Sigma Tech
+P157,Capteur,Production,1704,1437.27,10415.0,281.55,66.65,10.0,IndusPro
+P083,Carton,Production,1067,592.52,10809.0,245.23,23.63,15.0,Nova Equip
+P016,Compresseur,Production,2212,1944.68,97.0,270.55,41.91,33.0,StockPlus
+P054,Pneu,Logistique,41,2743.11,9504.626943005182,393.92,15.05,41.0,Maghreb Parts
+P168,Batterie,Maintenance,1358,1949.33,1779.0,100.85,24.06,12.0,Nova Equip
+P019,Vanne,Production,1936,2973.99,14080.0,359.57,33.97,22.0,StockPlus
+P029,Batterie,Production,2422,398.78,4690.0,143.31,136.6,40.0,Maghreb Parts
+P087,Boitier,Logistique,2450,423.54,16749.0,148.71,147.33,30.0,Atlas Supply
+P080,Carton,Production,400,604.36,12318.0,74.85,157.0,10.0,Sigma Tech
+P056,Batterie,Consommable,2331,2177.87,5393.0,76.95,123.14,14.0,Atlas Supply
+P149,Capot,Production,689,861.98,2010.0,339.37,49.72,36.0,Sigma Tech
+P079,Pneu,Logistique,889,2336.95,5799.0,28.32,93.39933333333333,28.0,IndusPro
+P151,Visserie,Maintenance,1857,654.2,13017.0,333.28,73.98,31.0,Sigma Tech
+P144,Filtre,Maintenance,933,3452.82,4991.0,370.51,78.1,37.0,Sigma Tech
+P026,Roulement,Production,1196,2351.44,7824.0,174.36,179.09,34.0,Nova Equip
+P105,Bobine,Qualite,2391,1297.6,8815.0,39.3,167.8,34.0,Nova Equip
+P017,Moteur,Logistique,856,2691.8,7597.0,89.94,32.19,13.0,Maghreb Parts
+P178,Moteur,Maintenance,873,2137.75,5510.0,309.2,36.49,28.0,StockPlus
+P136,Roulement,Logistique,2439,2609.42,7993.0,285.17,125.02,2.0,Sigma Tech
+P127,Carton,Production,758,420.49,9544.0,266.93,138.79,2.0,Nova Equip
+P110,Visserie,Consommable,504,2616.53,3817.0,106.1,54.52,12.0,IndusPro
+P069,Filtre,Logistique,1640,266.91,18775.0,361.01,118.69,44.0,Nova Equip
+P074,Courroie,Maintenance,1824,2243.6,2694.0,78.39,125.7,22.0,Nova Equip
+P148,Bobine,Production,2110,536.28,12332.0,346.2,71.87,12.0,Nova Equip
+P182,Pompe,Qualite,1229,1684.77,11505.0,350.73,48.78,20.0,Atlas Supply
+P097,Pompe,Production,1681,3057.71,19935.0,112.28,97.43,24.0,Atlas Supply
+P191,Compresseur,Production,1843,892.36,10113.0,122.02,52.85,35.0,Nova Equip
+P094,Convoyeur,Production,958,2798.24,9504.626943005182,295.7,113.91,28.0,Atlas Supply
+P116,Carton,Logistique,1832,1863.1,3437.0,150.78,8.71,33.0,Sigma Tech
+P164,Convoyeur,Maintenance,1171,903.77,17092.0,134.31,138.88,5.0,Sigma Tech
+P197,Batterie,Production,1020,1222.02,15728.0,176.83,19.33,12.0,Maghreb Parts
+P128,Tuyau,Consommable,1248,3117.01,19911.0,279.99,123.15,37.0,Nova Equip
+P109,Roulement,Maintenance,1370,1619.68,3388.0,179.58,12.68,42.0,Atlas Supply
+P070,Capteur,Logistique,400,452.39,2911.0,350.82,153.18,18.0,Nova Equip
+P085,Joint,Maintenance,1070,620.77,13019.0,161.83,133.96,7.0,Atlas Supply
+P098,Compresseur,Qualite,1196,3223.17,7167.0,242.08,140.48,32.0,IndusPro
+P102,Compresseur,Production,1545,2619.29,5979.0,140.36,173.36,36.0,IndusPro
+P039,Moteur,Production,621,470.35,4038.0,379.9,158.0,41.0,IndusPro
+P025,Vanne,Production,1445,801.41,11974.0,237.39,167.03,15.0,Sigma Tech
+P185,Palette Europe,Logistique,929,1179.11,12362.0,172.93,82.21,9.0,Maghreb Parts
+P119,Roulement,Qualite,1210,1864.86,19434.0,63.36,174.41,8.0,Atlas Supply
+P030,Bobine,Production,16,2351.0,18594.0,111.18,125.44,11.0,IndusPro
+P020,Courroie,Logistique,2432,866.85,17469.0,15.07,140.44,39.0,Maghreb Parts
+P186,Filtre,Maintenance,1586,471.75,8058.0,174.33,2.59,37.0,IndusPro
+P096,Palette,Logistique,1202,1662.3205263157895,847.0,22.16,114.3,20.0,Atlas Supply
+P068,Tuyau,Maintenance,2229,1662.3205263157895,14402.0,63.39,143.64,32.0,Sigma Tech
+P067,Lubrifiant,Production,703,2217.45,3248.0,14.29,158.21,29.0,Maghreb Parts
+P006,Vanne,Production,2494,2947.65,8182.0,321.97,170.08,10.0,Maghreb Parts
+P171,Galet,Qualite,672,2693.57,971.0,18.3,111.19,28.0,Maghreb Parts
+P057,Carton,Consommable,2269,3018.48,2263.0,116.2,14.17,11.0,Atlas Supply
+P099,Roulement,Qualite,2222,215.18,4471.0,30.06,19.7,41.0,StockPlus
+P159,Palette,Maintenance,1687,393.47,5608.0,292.66,85.44,10.0,StockPlus
+P200,Moteur,Production,2198,3377.65,9504.626943005182,95.12,26.08,24.0,Maghreb Parts
+P066,Courroie,Production,401,1151.64,7883.0,90.5,48.43,8.0,StockPlus
+P123,Compresseur,Logistique,1886,71.72,4682.0,221.34,4.91,42.0,Sigma Tech
+P181,Carton,Production,1951,541.54,5252.0,254.73,104.96,23.658163265306122,Nova Equip
+P032,Joint,Logistique,758,2703.46,19116.0,240.22,146.94,6.0,Nova Equip
+P013,Vanne,Production,2310,2845.43,9084.0,343.72,117.11,41.0,StockPlus
+P036,Batterie,Qualite,1630,1963.94,12810.0,225.3,106.93,39.0,Maghreb Parts
+P043,Vanne,Logistique,417,2464.72,17606.0,200.1,93.39933333333333,28.0,Atlas Supply
+P137,Visserie,Consommable,2001,1511.66,8597.0,370.85,40.13,39.0,StockPlus
+P199,Courroie,Maintenance,378,2907.42,17236.0,275.06,177.61,20.0,Sigma Tech
+P145,Convoyeur,Maintenance,938,2120.8,13510.0,388.71,169.88,5.0,Nova Equip
+P052,Courroie,Maintenance,2148,1662.3205263157895,1140.0,64.35,130.35,26.0,StockPlus
+P120,Joint,Production,0,849.78,19276.0,380.59,135.06,36.0,StockPlus
+P172,Palette,Consommable,377,655.87,2099.0,351.13,143.48,43.0,Sigma Tech
+P077,Emballage,Consommable,1395,3138.91,813.0,159.42,135.61,41.0,Sigma Tech
+P042,Palette,Production,1521,2171.65,8409.0,348.7,160.03,8.0,StockPlus
+P173,Roulement,Logistique,1036,1662.3205263157895,2737.0,216.29,86.93,37.0,Atlas Supply
+P126,Batterie,Maintenance,657,1147.25,11714.0,324.56,88.21,14.0,IndusPro
+P027,Batterie,Logistique,1071,2164.02,6585.0,358.14,31.71,42.0,Maghreb Parts
+P142,Pneu,Logistique,1536,1998.37,13246.0,281.99,171.18,2.0,Maghreb Parts
+P112,Palette,Production,515,884.65,13738.0,321.77,12.59,18.0,Maghreb Parts
+P133,Pneu,Maintenance,899,305.59,16940.0,395.19,81.52,39.0,Sigma Tech
+P003,Pneu,Production,2075,2080.07,3550.0,272.04,16.55,28.0,Nova Equip
+P078,Joint,Logistique,148,1659.65,2136.0,212.38,28.97,3.0,Atlas Supply
+P047,Capteur,Production,2244,1228.03,9466.0,18.76,99.38,20.0,Sigma Tech
+P129,Moteur,Consommable,1086,2078.18,6476.0,341.19,80.54,5.0,Maghreb Parts
+P114,Palette,Qualite,1329,3133.38,11073.0,116.14,93.39933333333333,21.0,Nova Equip
+P091,Convoyeur,Maintenance,737,1762.71,9504.626943005182,195.66,52.02,20.0,IndusPro
+P086,Convoyeur,Consommable,1214,311.83,834.0,122.59,29.36,12.0,Sigma Tech
+P143,Pneu,Production,828,1247.3,9166.0,125.97,27.61,35.0,Sigma Tech
+P037,Galet,Production,422,3068.47,18401.0,180.09,104.63,31.0,Atlas Supply
+P121,Galet,Maintenance,95,943.45,3092.0,183.94,23.85,30.0,Sigma Tech
+P062,Capteur,Logistique,600,904.97,11124.0,116.88,148.53,13.0,Sigma Tech
+P023,Lubrifiant,Consommable,1641,3339.25,9530.0,20.35,174.45,39.0,Sigma Tech
+P140,Palette,Maintenance,509,1271.74,3620.0,367.04,93.39933333333333,25.0,IndusPro
+P113,Pompe,Logistique,221,2497.15,1812.0,280.93,105.0,40.0,Maghreb Parts
+P034,Pneu,Logistique,94,2982.86,1268.0,253.42,40.68,6.0,Maghreb Parts
+P012,Compresseur,Qualite,1787,3026.73,8027.0,291.68,169.72,33.0,Nova Equip
+P169,Capot,Production,972,2001.29,9201.0,19.52,6.34,23.658163265306122,IndusPro
+P007,Palette,Production,1636,2934.39,18964.0,79.63,84.4,40.0,Sigma Tech
+P028,Tuyau,Logistique,289,1254.53,6004.0,328.8,71.63,44.0,Atlas Supply
+P195,Bobine,Logistique,881,1651.31,7663.0,16.97,7.61,33.0,Atlas Supply
+P103,Interrupteur,Qualite,2081,647.05,146.0,310.66,61.87,83.0,IndusPro
+P146,Palette Europe,Production,0,831.44,9504.626943005182,378.26,75.84,1.0,IndusPro
+P005,Carton,Maintenance,1786,3394.75,19039.0,50.6,93.39933333333333,33.0,Atlas Supply
+P033,Pneu,Production,2087,1821.29,2212.0,114.54,40.79,9.0,Maghreb Parts
+P118,Courroie,Logistique,2497,1566.77,14775.0,367.75,175.24,26.0,Maghreb Parts
+P154,Convoyeur,Consommable,84,3138.83,4400.0,99.7,38.75,3.0,IndusPro
+P153,Palette,Maintenance,1177,608.05,13492.0,242.55,41.78,10.0,Nova Equip
+P115,Pompe,Logistique,1160,1791.6,3496.0,240.19,111.95,15.0,StockPlus
+P011,Interrupteur,Maintenance,340,1662.3205263157895,5971.0,104.84,42.09,33.0,StockPlus
+P063,Boitier,Production,1908,1607.79,13449.0,226.13,62.93,25.0,Sigma Tech
+P125,Moteur,Logistique,177,741.25,2728.0,295.57,58.59,14.0,StockPlus
+P155,Pneu,Production,207,282.2,4777.0,57.02,6.09,14.0,Sigma Tech
+P176,Convoyeur,Production,94,849.57,18469.0,399.19,123.56,37.0,Maghreb Parts
+P001,Palette,Maintenance,1762,3455.49,1928.0,96.57,171.02,16.0,IndusPro
+P192,Pompe,Production,1949,2385.74,19855.0,125.56,125.25,6.0,StockPlus
+P162,Courroie,Logistique,1261,3029.48,13415.0,220.4,156.42,41.0,Maghreb Parts
+P071,Tuyau,Production,2497,449.47,3776.0,242.99,156.18,6.0,StockPlus
+P165,Vanne,Maintenance,1401,599.35,4263.0,254.1,152.14,20.0,StockPlus
+P065,Capteur,Logistique,1370,1724.92,6379.0,333.6,102.05,36.0,IndusPro
+P045,Palette,Logistique,680,478.6,5808.0,321.94,145.81,7.0,IndusPro
+P139,Emballage,Maintenance,194,994.29,8686.0,231.5,122.65,17.0,StockPlus
+P041,Palette Europe,Consommable,1654,1662.3205263157895,1990.0,64.64,23.75,8.0,Nova Equip
+P124,Visserie,Logistique,43,1128.29,6534.0,350.45,4.47,44.0,StockPlus
+P024,Courroie,Maintenance,1296,2122.2,6963.0,80.76,159.14,26.0,Nova Equip
+P160,Palette Europe,Maintenance,1560,1393.4,17370.0,35.49,174.29,12.0,Nova Equip
+P156,Interrupteur,Logistique,1257,1836.5,19117.0,40.01,117.47,16.0,StockPlus
+P082,Galet,Production,1172,144.48,11131.0,42.29,148.73,29.0,Atlas Supply
+P040,Visserie,Qualite,830,1662.3205263157895,11322.0,307.81,48.18,12.0,Atlas Supply
+P179,Palette,Logistique,45,1011.27,15554.0,166.75,88.74,15.0,StockPlus
+P048,Emballage,Production,1127,2065.33,942.0,114.78,16.11,16.0,Sigma Tech
+P095,Roulement,Production,1547,2198.21,15348.0,93.83,47.13,44.0,Atlas Supply
+P163,Filtre,Qualite,1554,2860.03,19836.0,318.38,139.9,1.0,Atlas Supply
+P044,Pompe,Consommable,733,746.56,15394.0,358.88,155.25,20.0,Atlas Supply
+P147,Palette,Logistique,138,357.59,12971.0,194.94,115.12,40.0,Maghreb Parts
+P004,Interrupteur,Logistique,1790,1334.05,5276.0,17.69,75.46,20.0,Maghreb Parts
+P106,Carton,Qualite,1524,1696.6,11661.0,293.99,18.9,36.0,Maghreb Parts
+P134,Emballage,Consommable,1389,1880.57,1645.0,378.18,29.87,25.0,Sigma Tech
+P193,Capot,Production,14,2661.16,14442.0,101.11,154.89,69.0,Atlas Supply
+P166,Lubrifiant,Consommable,475,2340.75,9936.0,355.53,137.1,8.0,Maghreb Parts
+P198,Palette,Maintenance,1829,1662.3205263157895,11291.0,159.89,43.95,42.0,Atlas Supply
+P050,Pompe,Qualite,982,1532.01,18608.0,257.06,67.4,6.0,Maghreb Parts
+P081,Emballage,Maintenance,1497,674.22,14173.0,297.83,5.75,35.0,IndusPro
+P035,Palette Europe,Maintenance,780,1932.35,11266.0,169.67,96.89,9.0,Atlas Supply
+P008,Palette Europe,Qualite,1020,1641.22,5435.0,264.57,110.61,32.0,Atlas Supply
+P111,Filtre,Maintenance,1685,129.84,15134.0,329.45,127.62,3.0,Sigma Tech
+P092,Pompe,Production,239,2416.85,7803.0,268.83,111.24,37.0,StockPlus
+P084,Vanne,Qualite,2161,976.15,11417.0,105.69,60.65,33.0,Nova Equip
+P088,Pneu,Consommable,652,1613.53,10561.0,290.43,149.87,21.0,StockPlus
+P194,Bobine,Consommable,802,2085.34,16458.0,26.42,140.48,5.0,Maghreb Parts
+P090,Compresseur,Logistique,1243,1275.9,10477.0,230.9,1.65,24.0,Maghreb Parts
+P009,Galet,Production,1353,1452.75,3411.0,102.89,30.48,33.0,IndusPro
+P014,Capteur,Logistique,501,3499.01,15544.0,333.79,109.59,13.0,Nova Equip
+P060,Emballage,Production,1301,3243.17,13966.0,55.92,86.77,23.0,Sigma Tech
+P183,Visserie,Production,933,1662.3205263157895,5817.0,393.79,143.66,14.0,StockPlus
+P132,Visserie,Maintenance,833,1745.3,7990.0,96.27,77.0,14.0,IndusPro
+P018,Tuyau,Maintenance,1692,3306.76,17004.0,124.33,40.08,26.0,Maghreb Parts
+P167,Batterie,Production,1040,3252.92,10004.0,250.19,112.91,43.0,Atlas Supply
+P073,Batterie,Production,269,487.19,16498.0,269.36,150.74,19.0,IndusPro
+P187,Batterie,Production,394,223.22,16022.0,297.66,13.5,20.0,Sigma Tech
+P135,Moteur,Logistique,0,2054.56,10334.0,25.38,143.17,20.0,IndusPro
+P177,Pompe,Production,544,403.26,788.0,146.78,77.74,44.0,StockPlus
+P196,Capot,Maintenance,1033,1442.33,19866.0,395.21,86.75,14.0,Maghreb Parts
+P064,Carton,Production,733,3430.14,6391.0,264.05,122.2,23.658163265306122,Atlas Supply
+P055,Palette,Production,1553,1388.8,2356.0,215.02,40.02,42.0,Nova Equip
+P108,Moteur,Production,1861,1292.14,11579.0,278.48,123.98,39.0,Nova Equip
+P051,Vanne,Logistique,1013,3164.7,10809.0,110.58,47.13,22.0,Nova Equip
+P175,Capot,Production,1376,1777.37,7331.0,321.53,22.97,12.0,Sigma Tech
+P059,Moteur,Production,1826,516.04,4632.0,366.58,89.38,12.0,Atlas Supply
+P049,Boitier,Consommable,1576,1373.77,439.0,221.24,73.82,4.0,Maghreb Parts
+P089,Vanne,Maintenance,1161,723.36,2463.0,125.88,91.59,31.0,Maghreb Parts
+P022,Batterie,Production,961,453.36,10555.0,91.08,10.88,38.0,Atlas Supply
+P058,Pneu,Logistique,877,3323.4,19049.0,17.17,153.29,18.0,Atlas Supply
+P161,Tuyau,Logistique,2099,3393.19,4964.0,132.96,33.8,30.0,Maghreb Parts
+P188,Compresseur,Maintenance,1622,3464.88,13107.0,103.12,70.95,26.0,Nova Equip
+P130,Roulement,Consommable,1688,2377.34,4232.0,107.37,49.62,38.0,StockPlus
+P038,Capot,Maintenance,119,1413.08,3707.0,124.84,16.92,32.0,StockPlus
+P158,Convoyeur,Production,1255,1662.3205263157895,16261.0,142.55,155.65,29.0,Maghreb Parts
+P002,Capot,Production,361,527.73,8587.0,100.12,141.65,22.0,IndusPro
+P053,Capot,Maintenance,1692,1799.69,11280.0,335.62,89.51,3.0,Maghreb Parts
+P150,Capteur,Consommable,2225,563.64,5319.0,134.45,177.12,23.0,StockPlus
+P131,Moteur,Qualite,460,2762.42,13244.0,200.88,179.48,41.0,IndusPro
+P152,Galet,Production,819,998.91,19976.0,24.43,160.99,61.0,StockPlus
+P104,Palette Europe,Maintenance,1450,733.91,19581.0,51.57,114.06,15.0,Nova Equip
+P100,Batterie,Qualite,1421,970.16,15363.0,203.58,137.1,36.0,Nova Equip
+P117,Batterie,Production,1815,376.44,1665.0,45.72,156.94,35.0,Sigma Tech
+P075,Filtre,Logistique,722,637.81,6918.0,366.62,122.59,37.0,Maghreb Parts
+P122,Galet,Consommable,718,1321.43,1874.0,82.2,136.61,23.0,Maghreb Parts
+P021,Compresseur,Maintenance,1573,1577.73,18540.0,43.35,63.35,2.0,Sigma Tech
+P189,Pneu,Consommable,260,1129.25,4893.0,53.08,86.65,29.0,Nova Equip
+P072,Boitier,Logistique,80,532.93,15790.0,244.2,127.65,18.0,Nova Equip
+P107,Moteur,Consommable,1393,2164.46,7216.0,203.24,168.73,6.0,Maghreb Parts
+P015,Carton,Consommable,900,3488.23,19302.0,164.9,92.53,30.0,Sigma Tech
+P093,Pneu,Logistique,755,139.03,11493.0,375.36,176.62,4.0,Sigma Tech
+P180,Lubrifiant,Production,744,2034.96,6665.0,197.15,12.03,23.658163265306122,Nova Equip
